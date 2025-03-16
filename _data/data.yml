@@ -1,0 +1,452 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Desheng Zheng
+  tagline: Associate Professor
+  avatar: zhengdesheng.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: zheng_de_sheng@163.com
+#  phone: 012 345 6789
+#  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+#  citizenship:
+#  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+#  linkedin: alandoe
+#  xing: alandoe
+#  github: jekyll
+#  telegram: # add your nickname without '@' sign
+#  gitlab:
+#  bitbucket:
+#  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+#  twitter: '@jekyllrb'
+#  stack-overflow: # Number/Username, e.g. 123456/alandoe
+#  codewars:
+#  goodreads: # Number-Username, e.g. 123456-alandoe
+#  mastodon: # Please include your full Mastodon link here.
+#  hackerrank: # Please provide your HackerRank username.
+#  leetcode: # Please provide your LeetCode username.
+#  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+#  languages:
+#    title: Languages
+#    info:
+#    - idiom: English
+#      level: Native
+#
+#    - idiom: French
+#      level: Professional
+#
+#    - idiom: Spanish
+#      level: Professional
+#
+#  interests:
+#    title: Interests
+#    info:
+#    - item: Climbing
+#      link:
+#
+#
+#    - item: Snowboarding
+#      link:
+#
+#
+#    - item: Cooking
+#      link:
+
+
+career-profile:
+  title: About me
+  summary: |
+    I am currently an associate professor in the School of Computer and Software at Southwest Petroleum University. My research interests are deep learning/big model-driven cybersecurity countermeasures, software development based on front-end and back-end frameworks.
+
+    I have openings for self-motivated undergraduate students, master students. Feel free to contact me if you are interested in my research area.
+education:
+  title: Education
+  info:
+  - degree: Ph.D. in Computer Science
+    university: University of Electronic Science and Technology of China
+    time: 2009 - 2014
+#    details: |
+#      Describe your study here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#      sociis natoque penatibus et magnis dis parturient montes, nascetur
+#      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#      pretium quis, sem.
+#        - Bullet point
+#        - Bullet point
+  - degree: M.D. in Computer Science
+    university: University of Electronic Science and Technology of China
+    time: 2005 - 2008
+#    details: |
+#      Describe your study here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#      sociis natoque penatibus et magnis dis parturient montes, nascetur
+#      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#      pretium quis, sem.
+#        - Bullet point
+#        - Bullet point
+
+
+
+experiences:
+  title: Experiences
+  info:
+  - role: Associate Researcher
+    time: 2019-01 - Present
+    company: Southwest Petroleum University, School of Computer Science
+
+  - role: Tutors
+    time: 2018-07 - 2018-12
+    company: Southwest Petroleum University, School of Computer Science
+
+  - role: Senior Engineer,  IT Storage Architecture & Design
+
+    time: 2014-07 - 2016-06
+    company: Huawei Technologies
+
+  - role: Engineer, DB Processing
+
+    time: 2008-07 - 2009-08
+    company: Apache Design Solutions, USA
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#      error sit voluptatem accusantium doloremque laudantium, totam rem
+#      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#      architecto beatae vitae dicta sunt explicabo.
+#        - Bullet point
+#        - Bullet point
+
+
+#experiences:
+#  title: Experiences
+#  info:
+#  - role: Lead Developer
+#    time: 2015 - Present
+#    company: Startup Hubs, San Francisco
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#      error sit voluptatem accusantium doloremque laudantium, totam rem
+#      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#      architecto beatae vitae dicta sunt explicabo.
+#        - Bullet point
+#        - Bullet point
+#  - role: Senior Software Engineer
+#    time: 2014 - 2015
+#    company: Google, London
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem.
+#        - Bullet point
+#        - Bullet point
+#  - role: UI Developer
+#    time: 2012 - 2014
+#    company: Amazon, London
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem.
+#        - Bullet point
+#        - Bullet point
+
+#certifications:
+#  title: Certifications
+#  list:
+#  - name: CV Builder
+#    start: 2020
+#    end: 2021
+#    organization: Microsoft
+#    credentialid: 111-222
+#    credentialurl: www.google.com
+#    credentialname: Google
+#    details: |
+#      Details about cert. Lorem ipsum dolor sit amet, consectetur
+#      adipiscing elit.
+#      Nullam eget orci purus. Nullam ultrices neque nibh.
+#      Aenean fermentum, felis vulputate suscipit accumsan,
+#      sem enim bibendum augue, sed convallis arcu lacus at dui.
+#      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#      Praesent venenatis erat non augue suscipit consectetur.
+#
+#      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#      fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#      justo diam viverra velit, sed rhoncus leo leo eu justo.
+#      Suspendisse placerat risus ante, sed porta nisi blandit at.
+#  - name: Git learning
+#    start: 2019
+#    end:
+#    organization: Microsoft
+#    credentialid: 111-222
+#    credentialurl: www.github.com
+#    credentialname: Github
+#    details: |
+#      Older certification. Lorem ipsum dolor sit amet, consectetur
+#      adipiscing elit.
+#      Nullam eget orci purus. Nullam ultrices neque nibh.
+#      Aenean fermentum, felis vulputate suscipit accumsan,
+#      sem enim bibendum augue, sed convallis arcu lacus at dui.
+#      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#      Praesent venenatis erat non augue suscipit consectetur.
+
+
+
+#projects:
+#  title: Projects
+##  intro: >
+##    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  assignments:
+#  - title: Study on the key technology of zero-perception migration against security for robust machine vision
+#    link: "#hook"
+#    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#  - title: DevStudio
+#    link: "#"
+#    tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#  - title: Tempo
+#    link: "#"
+#    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#  - title: Atom
+#    link: "#"
+#    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#  - title: Delta
+#    link: "#"
+#    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+#oss:
+#  title: OSS Contributions
+#  intro: >
+#    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  contributions:
+#  - title: Tempo
+#    link: "#"
+#    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#  - title: Atom
+#    link: "#"
+#    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#  - title: Delta
+#    link: "#"
+#    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+
+
+publications:
+  title: Selected Publications
+#  intro: |
+#    You can list your publications in this section. Lorem ipsum dolor sit
+#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    bibendum fringilla a eu lectus.
+  papers:
+  - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
+    link: "#"
+    authors: Zheng, Desheng, Wuping Ke, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
+    conference: IEEE Transactions on Information Forensics and Security, 2025.
+
+  - title: Improving the transferability of adversarial examples through neighborhood attribution
+    link: "#"
+    authors: Ke, Wuping, Desheng Zheng, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
+    conference: Knowledge-Based Systems, 2024.
+
+  - title: Channel-augmented joint transformation for transferable adversarial attacks
+    link: "#"
+    authors: Zheng, Desheng, Wuping Ke, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
+    conference: Applied Intelligence, 2024.
+
+  - title: An automatic segmentation framework of quasi-periodic time series through graph structure
+    link: "#"
+    authors: Tang, Xiaolan, Desheng Zheng, Gebre S. Kebede, Zhengyu Li, Xiaoyu Li, Chao Lu, Lintao Li, Yong Zhou, and Shan Yang
+    conference: Applied Intelligence, 2023.
+
+  - title: Automatic Selection Attacks Framework for Hard Label Black-Box Models
+    link: "#"
+    authors: Liu, Xiaolei, Xiaoyu Li, Desheng Zheng, Jiayu Bai, Yu Peng, and Shibin Zhang
+    conference: In IEEE INFOCOM 2022-IEEE Conference on Computer Communications Workshops, 2022.
+
+  - title: Improving the transferability of adversarial examples with path tuning
+    link: "#"
+    authors: Li, Tianyu; Li, Xiaoyu; Ke, Wuping; Tian, Xuwei; Zheng, Desheng; Lu, Chao
+    conference: APPLIED INTELLIGENCE, 2024
+
+  - title: Density Functional Theory Study of Nanostructured Pd-C4N/XMoY (X, Y = S, Se, Te) Heterostructures for Oxygen Reduction, Oxygen Evolution, and Hydrogen Evolution Reactions
+    link: "#"
+    authors: Liu, Qifang; Zhao, Xiuyun; Zheng, Desheng; Zhao, Qingrui; Feng, Jing; Ge, Xingbo; Feng, Yingjie; Chen, Xin
+    conference: ACS APPLIED NANO MATERIALS, 2024
+
+  - title: Constructing highly efficient bifunctional catalysts for oxygen reduction and oxygen evolution by modifying MXene with transition metal
+    link: "#"
+    authors: Dai, Yu; Zhao, Xiuyun; Zheng, Desheng; Zhao, Qingrui; Feng, Jing; Feng, Yingjie; Ge, Xingbo; Chen, Xin
+    conference: JOURNAL OF COLLOID AND INTERFACE SCIENCE, 2024
+
+  - title: First-principles study of the electronic and catalytic properties of nickel-antimony (Ni-Sb) alloy catalyst for hydrogen evolution reaction
+    link: "#"
+    authors: Xue, Pengyan; Zhao, Xiuyun; Zheng, Desheng; Zhao, Qingrui; Feng, Jing; Feng, Yingjie; Chen, Xin
+    conference: COMPUTATIONAL MATERIALS SCIENCE, 2024
+
+  - title: Single transition metal atom supported on NiOOH as highly efficient electrocatalyst for oxygen reduction and oxygen evolution reaction A DFT study
+    link: "#"
+    authors: Deng, Jie; Zheng, Desheng; Zhao, Xiuyun; Zhao, Lei; Zhou, Yue; Feng, Yingjie; Chen, Xin
+    conference: COLLOIDS AND SURFACES A-PHYSICOCHEMICAL AND ENGINEERING ASPECTS, 2024
+
+  - title: Theoretical prediction of emerging high-performance trifunctional ORR/OER/HER single-atom catalysts transition metals anchored into π-π conjugated graphitic carbon nitride (g-C10N3)
+    link: "#"
+    authors: Zhu, Haiye; Feng, Yingjie; Zheng, Desheng; Zhao, Xiuyun; Zhou, Yue; Fu, Xiaoyue; Zhao, Lei; Chen, Xin
+    conference: PHYSICAL CHEMISTRY CHEMICAL PHYSICS, 2023
+
+  - title: High-performance screening of carbon-nitride single-atom catalysts for oxygen electrode reaction in rechargeable metal-air batteries
+    link: "#"
+    authors: Li, Yahui; Feng, Yingjie; Zheng, Desheng; Zhao, Xiuyun; Zhou, Yue; Fu, Xiaoyue; Chen, Xin
+    conference: CHEMICAL ENGINEERING JOURNAL, 2023
+
+  - title: Rare Earth Metal Anchored into Nitrogen-Doped Graphene for CO2 Electrocatalytic Reduction to C1 Products
+    link: "#"
+    authors: Liu, Siying; Zheng, Desheng; Zhao, Lei; Zhao, Xiuyun; Chen, Xin
+    conference: LANGMUIR, 2023
+
+  - title: TADS Temporal Autoencoder Dynamic Series Framework for Unsupervised Anomaly Detection
+    link: "#"
+    authors: Li, Zhengyu; Zheng, Desheng; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
+    conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
+
+  - title: Adversarial Examples Generation Algorithm through DCGAN
+    link: "#"
+    authors: Deng, Biying; Ran, Ziyong; Chen, Jixin; Zheng, Desheng; Yang, Qiao; Tian, Lulu
+    conference: INTELLIGENT AUTOMATION AND SOFT COMPUTING, 2021
+
+  - title: The Controllability of Quantum Correlation under Geometry and Entropy Discords
+    link: "#"
+    authors: Li, Xiaoyu; Huang, Yiming; Zhu, Qinsheng; Liu, Xusheng; Zheng, Desheng
+    conference: CMC-COMPUTERS MATERIALS & CONTINUA, 2021
+
+  - title: Surge Fault Detection of Aeroengines Based on Fusion Neural Network
+    link: "#"
+    authors: Zheng, Desheng; Tang, Xiaolan; Wu, Xinlong; Zhang, Kexin; Lu, Chao; Tian, Lulu
+    conference: INTELLIGENT AUTOMATION AND SOFT COMPUTING, 2021
+
+  - title: Applying Stack Bidirectional LSTM Model to Intrusion Detection
+    link: "#"
+    authors: Ran, Ziyong; Zheng, Desheng; Lai, Yanling; Tian, Lulu
+    conference: CMC-COMPUTERS MATERIALS & CONTINUA, 2020
+
+  - title: Aero-Engine Surge Fault Diagnosis Using Deep Neural Network
+    link: "#"
+    authors: Zhang, Kexin; Lin, Bin; Chen, Jixin; Wu, Xinlong; Lu, Chao; Zheng, Desheng; Tian, Lulu
+    conference: COMPUTER SYSTEMS SCIENCE AND ENGINEERING, 2022
+
+  - title: An Efficient Bar Code Image Recognition Algorithm for Sorting System
+    link: "#"
+    authors: Zheng, Desheng; Ran, Ziyong; Liu, Zhifeng; Li, Liang; Tian, Lulu
+    conference: CMC-COMPUTERS MATERIALS & CONTINUA, 2020
+
+
+
+projectsnew:
+  title: Projects
+  info:
+    - role: Research on Zero-perception Migration Countermeasure Security Key Technology for Robust Machine Vision
+      time: 2025.01 - 2026.12
+      company: Xinjiang Autonomous Region Natural Science Foundation Top-level Project
+
+    - role: Key Technology Research and Development of Warehouse Intelligent Multi-Modal Linkage Equipment such as Cold Chain Logistics Automatic Guided Vehicle (AGV)
+      time: 2023.01-2026.12
+      company: Xinjiang Autonomous Region Second Batch of Key R&D Science and Technology Program Project
+
+    - role:  Research on key technologies for intelligent characterization in tagless time series data for industrial internet of things
+      time: 2023.01-2025.12
+      company: Key Laboratory of Industrial Internet of Things in Networked Control, Ministry of Education
+
+    - role:  Research and Construction of Intelligent Detection System for Deep Forged Images in Social Governance
+      time: 2023.01-2024.12
+      company: Sichuan Key Laboratory of Advanced Cryptography and System Security
+
+    - role:  Research on standardized cataloging for accurate characterization in unlabeled data for industrial IoT
+      time: 2023.01-2025.08
+      company: Key Laboratory of the Ministry of Industry and Information Technology of the Internet of Things Standards and Applications
+
+    - role:  Sichuan Key R&D Project Version 2 Research and Application of Intelligent Cataloging and Reasoning Fusion for Multi-source Test Data of Aero-engine
+      time: 2021.01-2022.12
+      company: Sichuan Provincial Department of Science and Technology
+
+    - role:  Construction and application demonstration project of intelligent logistics cloud platform based on B2T
+      time: 2019.12-2022.12
+      company: Chengdu Key Demonstration Project
+
+
+#  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#    link: "#"
+#    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#  - title: A syntax directed compiler for Algol 60
+#    link: "#"
+#    authors: Edgar T. Irons
+#    conference: "Comm. ACM 4 (1961), 51–55"
+
+#recommendations:
+#  title: Recommendations
+#  list:
+#  - person: Yareli Perez
+#    email: perezyareli@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      Alan Doe is a super employee!
+#  - person: Lara Henderson
+#    email: larah@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      I would like to work with Alan Doe again!
+#
+#      He is a great employee!
+
+#skills:
+#  title: Skills &amp; Proficiency
+#
+#  toolset:
+#  - name: Python & Django
+#    level: 98%
+#
+#  - name: Javascript & jQuery
+#    level: 98%
+#
+#  - name: Angular
+#    level: 98%
+#
+#  - name: HTML5 & CSS
+#    level: 95%
+#
+#  - name: Ruby on Rails
+#    level: 85%
+#
+#  - name: Sketch & Photoshop
+#    level: 60%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Desheng Zheng</a>
