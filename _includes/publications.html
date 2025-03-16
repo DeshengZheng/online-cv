@@ -31,6 +31,9 @@
 </section><!--//section-->
 {% endif %}
 
+
+
+
 {% assign projectsnew = site.data.data.projectsnew %}
 {% if projectsnew %}
 <section class="section projectsnew-section">
@@ -76,3 +79,38 @@
 </section><!--//section-->
 {% endif %}
 
+
+
+
+
+
+{% assign experiences1 = site.data.data.experiences1 %}
+{% if experiences1 %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ experiences1.title }}
+  </h2>
+
+
+  {% for project in experiences1.assignments %}
+    <div class="item">
+      {% if project.link %}
+      <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+      {% else %}
+      {{ project.title }}
+      {% endif %}
+
+      {% if project.tagline %}
+       <span class="project-tagline">{{ project.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
