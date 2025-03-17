@@ -334,10 +334,10 @@ publications:
     authors: Li, Zhengyu; Zheng, Desheng*; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
     conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
 
-  - title: Adversarial Examples Generation Algorithm through DCGAN
-    link: "#"
-    authors: Deng, Biying; Ran, Ziyong; Chen, Jixin; Zheng, Desheng*; Yang, Qiao; Tian, Lulu
-    conference: INTELLIGENT AUTOMATION AND SOFT COMPUTING, 2021
+#  - title: Adversarial Examples Generation Algorithm through DCGAN
+#    link: "#"
+#    authors: Deng, Biying; Ran, Ziyong; Chen, Jixin; Zheng, Desheng*; Yang, Qiao; Tian, Lulu
+#    conference: INTELLIGENT AUTOMATION AND SOFT COMPUTING, 2021
 
   - title: The Controllability of Quantum Correlation under Geometry and Entropy Discords
     link: "#"
