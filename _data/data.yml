@@ -266,102 +266,102 @@ publications:
   papers:
   - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
     link: "#"
-    authors: Zheng, Desheng, Wuping Ke, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
+    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
     conference: IEEE Transactions on Information Forensics and Security, 2025.
 
   - title: Improving the transferability of adversarial examples through neighborhood attribution
     link: "#"
-    authors: Ke, Wuping, Desheng Zheng, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
+    authors: Ke, Wuping, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
     conference: Knowledge-Based Systems, 2024.
 
   - title: Channel-augmented joint transformation for transferable adversarial attacks
     link: "#"
-    authors: Zheng, Desheng, Wuping Ke, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
+    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
     conference: Applied Intelligence, 2024.
 
   - title: An automatic segmentation framework of quasi-periodic time series through graph structure
     link: "#"
-    authors: Tang, Xiaolan, Desheng Zheng, Gebre S. Kebede, Zhengyu Li, Xiaoyu Li, Chao Lu, Lintao Li, Yong Zhou, and Shan Yang
+    authors: Tang, Xiaolan, Desheng Zheng*, Gebre S. Kebede, Zhengyu Li, Xiaoyu Li, Chao Lu, Lintao Li, Yong Zhou, and Shan Yang
     conference: Applied Intelligence, 2023.
 
   - title: Automatic Selection Attacks Framework for Hard Label Black-Box Models
     link: "#"
-    authors: Liu, Xiaolei, Xiaoyu Li, Desheng Zheng, Jiayu Bai, Yu Peng, and Shibin Zhang
+    authors: Liu, Xiaolei, Xiaoyu Li*, Desheng Zheng, Jiayu Bai, Yu Peng, and Shibin Zhang
     conference: In IEEE INFOCOM 2022-IEEE Conference on Computer Communications Workshops, 2022.
 
   - title: Improving the transferability of adversarial examples with path tuning
     link: "#"
-    authors: Li, Tianyu; Li, Xiaoyu; Ke, Wuping; Tian, Xuwei; Zheng, Desheng; Lu, Chao
+    authors: Li, Tianyu; Li, Xiaoyu*; Ke, Wuping; Tian, Xuwei; Zheng, Desheng; Lu, Chao
     conference: APPLIED INTELLIGENCE, 2024
 
   - title: Density Functional Theory Study of Nanostructured Pd-C4N/XMoY (X, Y = S, Se, Te) Heterostructures for Oxygen Reduction, Oxygen Evolution, and Hydrogen Evolution Reactions
     link: "#"
-    authors: Liu, Qifang; Zhao, Xiuyun; Zheng, Desheng; Zhao, Qingrui; Feng, Jing; Ge, Xingbo; Feng, Yingjie; Chen, Xin
+    authors: Liu, Qifang; Zhao, Xiuyun; Zheng, Desheng; Zhao, Qingrui; Feng, Jing; Ge, Xingbo; Feng, Yingjie; Chen, Xin*
     conference: ACS APPLIED NANO MATERIALS, 2024
 
   - title: Constructing highly efficient bifunctional catalysts for oxygen reduction and oxygen evolution by modifying MXene with transition metal
     link: "#"
-    authors: Dai, Yu; Zhao, Xiuyun; Zheng, Desheng; Zhao, Qingrui; Feng, Jing; Feng, Yingjie; Ge, Xingbo; Chen, Xin
+    authors: Dai, Yu; Zhao, Xiuyun; Zheng, Desheng; Zhao, Qingrui; Feng, Jing; Feng, Yingjie; Ge, Xingbo; Chen, Xin*
     conference: JOURNAL OF COLLOID AND INTERFACE SCIENCE, 2024
 
   - title: First-principles study of the electronic and catalytic properties of nickel-antimony (Ni-Sb) alloy catalyst for hydrogen evolution reaction
     link: "#"
-    authors: Xue, Pengyan; Zhao, Xiuyun; Zheng, Desheng; Zhao, Qingrui; Feng, Jing; Feng, Yingjie; Chen, Xin
+    authors: Xue, Pengyan; Zhao, Xiuyun; Zheng, Desheng; Zhao, Qingrui; Feng, Jing; Feng, Yingjie; Chen, Xin*
     conference: COMPUTATIONAL MATERIALS SCIENCE, 2024
 
   - title: Single transition metal atom supported on NiOOH as highly efficient electrocatalyst for oxygen reduction and oxygen evolution reaction A DFT study
     link: "#"
-    authors: Deng, Jie; Zheng, Desheng; Zhao, Xiuyun; Zhao, Lei; Zhou, Yue; Feng, Yingjie; Chen, Xin
+    authors: Deng, Jie; Zheng, Desheng; Zhao, Xiuyun; Zhao, Lei; Zhou, Yue; Feng, Yingjie; Chen, Xin*
     conference: COLLOIDS AND SURFACES A-PHYSICOCHEMICAL AND ENGINEERING ASPECTS, 2024
 
   - title: Theoretical prediction of emerging high-performance trifunctional ORR/OER/HER single-atom catalysts transition metals anchored into π-π conjugated graphitic carbon nitride (g-C10N3)
     link: "#"
-    authors: Zhu, Haiye; Feng, Yingjie; Zheng, Desheng; Zhao, Xiuyun; Zhou, Yue; Fu, Xiaoyue; Zhao, Lei; Chen, Xin
+    authors: Zhu, Haiye; Feng, Yingjie; Zheng, Desheng; Zhao, Xiuyun; Zhou, Yue; Fu, Xiaoyue; Zhao, Lei; Chen, Xin*
     conference: PHYSICAL CHEMISTRY CHEMICAL PHYSICS, 2023
 
   - title: High-performance screening of carbon-nitride single-atom catalysts for oxygen electrode reaction in rechargeable metal-air batteries
     link: "#"
-    authors: Li, Yahui; Feng, Yingjie; Zheng, Desheng; Zhao, Xiuyun; Zhou, Yue; Fu, Xiaoyue; Chen, Xin
+    authors: Li, Yahui; Feng, Yingjie; Zheng, Desheng; Zhao, Xiuyun; Zhou, Yue; Fu, Xiaoyue; Chen, Xin*
     conference: CHEMICAL ENGINEERING JOURNAL, 2023
 
   - title: Rare Earth Metal Anchored into Nitrogen-Doped Graphene for CO2 Electrocatalytic Reduction to C1 Products
     link: "#"
-    authors: Liu, Siying; Zheng, Desheng; Zhao, Lei; Zhao, Xiuyun; Chen, Xin
+    authors: Liu, Siying; Zheng, Desheng; Zhao, Lei; Zhao, Xiuyun; Chen, Xin*
     conference: LANGMUIR, 2023
 
   - title: TADS Temporal Autoencoder Dynamic Series Framework for Unsupervised Anomaly Detection
     link: "#"
-    authors: Li, Zhengyu; Zheng, Desheng; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
+    authors: Li, Zhengyu; Zheng, Desheng*; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
     conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
 
   - title: Adversarial Examples Generation Algorithm through DCGAN
     link: "#"
-    authors: Deng, Biying; Ran, Ziyong; Chen, Jixin; Zheng, Desheng; Yang, Qiao; Tian, Lulu
+    authors: Deng, Biying; Ran, Ziyong; Chen, Jixin; Zheng, Desheng*; Yang, Qiao; Tian, Lulu
     conference: INTELLIGENT AUTOMATION AND SOFT COMPUTING, 2021
 
   - title: The Controllability of Quantum Correlation under Geometry and Entropy Discords
     link: "#"
-    authors: Li, Xiaoyu; Huang, Yiming; Zhu, Qinsheng; Liu, Xusheng; Zheng, Desheng
+    authors: Li, Xiaoyu; Huang, Yiming; Zhu, Qinsheng*; Liu, Xusheng; Zheng, Desheng
     conference: CMC-COMPUTERS MATERIALS & CONTINUA, 2021
 
   - title: Surge Fault Detection of Aeroengines Based on Fusion Neural Network
     link: "#"
-    authors: Zheng, Desheng; Tang, Xiaolan; Wu, Xinlong; Zhang, Kexin; Lu, Chao; Tian, Lulu
+    authors: Zheng, Desheng; Tang, Xiaolan*; Wu, Xinlong; Zhang, Kexin; Lu, Chao; Tian, Lulu
     conference: INTELLIGENT AUTOMATION AND SOFT COMPUTING, 2021
 
   - title: Applying Stack Bidirectional LSTM Model to Intrusion Detection
     link: "#"
-    authors: Ran, Ziyong; Zheng, Desheng; Lai, Yanling; Tian, Lulu
+    authors: Ran, Ziyong; Zheng, Desheng*; Lai, Yanling; Tian, Lulu
     conference: CMC-COMPUTERS MATERIALS & CONTINUA, 2020
 
   - title: Aero-Engine Surge Fault Diagnosis Using Deep Neural Network
     link: "#"
-    authors: Zhang, Kexin; Lin, Bin; Chen, Jixin; Wu, Xinlong; Lu, Chao; Zheng, Desheng; Tian, Lulu
+    authors: Zhang, Kexin; Lin, Bin*; Chen, Jixin; Wu, Xinlong; Lu, Chao; Zheng, Desheng; Tian, Lulu
     conference: COMPUTER SYSTEMS SCIENCE AND ENGINEERING, 2022
 
   - title: An Efficient Bar Code Image Recognition Algorithm for Sorting System
     link: "#"
-    authors: Zheng, Desheng; Ran, Ziyong; Liu, Zhifeng; Li, Liang; Tian, Lulu
+    authors: Zheng, Desheng*; Ran, Ziyong; Liu, Zhifeng; Li, Liang; Tian, Lulu
     conference: CMC-COMPUTERS MATERIALS & CONTINUA, 2020
 
 
