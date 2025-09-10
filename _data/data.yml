@@ -264,6 +264,21 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
+  - title: Harmful data enhanced anomaly detection for quasi-periodic multivariate time series
+    link: "#"
+    authors: Wang, Liyuan., Zhou, Yong., Ke, Wuping., Zheng, Ddsheng*., Min, F., & Li, H.
+    conference: Applied Intelligence, 2025.
+
+  - title: An automatic segmentation framework of quasi-periodic time series through graph structure
+    link: "#"
+    authors: Tang, Xiaolan, Desheng Zheng*, Gebre S. Kebede, Zhengyu Li, Xiaoyu Li, Chao Lu, Lintao Li, Yong Zhou, and Shan Yang
+    conference: Applied Intelligence, 2023.
+
+  - title: TADS Temporal Autoencoder Dynamic Series Framework for Unsupervised Anomaly Detection
+    link: "#"
+    authors: Li, Zhengyu; Zheng, Desheng*; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
+    conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
+
   - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
     link: "#"
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
@@ -279,10 +294,7 @@ publications:
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
     conference: Applied Intelligence, 2024.
 
-  - title: An automatic segmentation framework of quasi-periodic time series through graph structure
-    link: "#"
-    authors: Tang, Xiaolan, Desheng Zheng*, Gebre S. Kebede, Zhengyu Li, Xiaoyu Li, Chao Lu, Lintao Li, Yong Zhou, and Shan Yang
-    conference: Applied Intelligence, 2023.
+
 
   - title: Automatic Selection Attacks Framework for Hard Label Black-Box Models
     link: "#"
@@ -329,10 +341,7 @@ publications:
     authors: Liu, Siying; Zheng, Desheng; Zhao, Lei; Zhao, Xiuyun; Chen, Xin*
     conference: LANGMUIR, 2023
 
-  - title: TADS Temporal Autoencoder Dynamic Series Framework for Unsupervised Anomaly Detection
-    link: "#"
-    authors: Li, Zhengyu; Zheng, Desheng*; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
-    conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
+
 
 #  - title: Adversarial Examples Generation Algorithm through DCGAN
 #    link: "#"
@@ -409,7 +418,7 @@ experiences1:
 
       - title: Journal Reviewer
         link: "#"
-        tagline:  Served as reviewer for IJCNN2025, ICME2025, ICASSP2025, CENet 2023 TPCM/WKSP 4 Chair, IEEE Transactions on Circuits and Systems for Video Technology, Knowledge-Based System, Expert Systems with Applications, etc as well as other internationally recognized conferences/journals. 
+        tagline:  Served as reviewer for IJCNN2025, ICME2025, ICASSP2025, CENet 2023 TPCM/WKSP 4 Chair, IEEE Transactions on Circuits and Systems for Video Technology, Knowledge-Based System, Expert Systems with Applications, etc as well as other internationally recognized conferences/journals.
 
 
 #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
