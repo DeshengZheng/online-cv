@@ -98,7 +98,7 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Associate Professor
+  - role: Associate Researcher
     time: 2019-01 - Present
     company: Southwest Petroleum University, School of Computer Science
 
@@ -269,16 +269,6 @@ publications:
     authors: Wang, Liyuan., Zhou, Yong., Ke, Wuping., Zheng, Ddsheng*., Min, F., & Li, H.
     conference: Applied Intelligence, 2025.
 
-  - title: An automatic segmentation framework of quasi-periodic time series through graph structure
-    link: "#"
-    authors: Tang, Xiaolan, Desheng Zheng*, Gebre S. Kebede, Zhengyu Li, Xiaoyu Li, Chao Lu, Lintao Li, Yong Zhou, and Shan Yang
-    conference: Applied Intelligence, 2023.
-
-  - title: TADS Temporal Autoencoder Dynamic Series Framework for Unsupervised Anomaly Detection
-    link: "#"
-    authors: Li, Zhengyu; Zheng, Desheng*; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
-    conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
-
   - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
     link: "#"
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
@@ -293,6 +283,23 @@ publications:
     link: "#"
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
     conference: Applied Intelligence, 2024.
+
+  - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
+    link: "#"
+    authors: Ke, Wuping., Zheng, Desheng., Zhang, Chi., et al.
+    conference: International Conference on Artificial Intelligence and Security, 2022. (Best paper)
+
+  - title: An automatic segmentation framework of quasi-periodic time series through graph structure
+    link: "#"
+    authors: Tang, Xiaolan, Desheng Zheng*, Gebre S. Kebede, Zhengyu Li, Xiaoyu Li, Chao Lu, Lintao Li, Yong Zhou, and Shan Yang
+    conference: Applied Intelligence, 2023.
+
+  - title: TADS Temporal Autoencoder Dynamic Series Framework for Unsupervised Anomaly Detection
+    link: "#"
+    authors: Li, Zhengyu; Zheng, Desheng*; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
+    conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
+
+
 
 
 
@@ -443,10 +450,7 @@ publications:
     authors: Li, Xiaoyu., Yang, Guangwu., Zheng, Desheng.
     conference: IEEE Congress on Evolutionary Computation, 2010.
 
-  - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
-    link: "#"
-    authors: Ke, Wuping., Zheng, Desheng., Zhang, Chi., et al.
-    conference: International Conference on Artificial Intelligence and Security, 2022.
+
 
   - title: A Static Malware Sample Generation Model Based on Automatic Perturbation Strategy
     link: "#"
