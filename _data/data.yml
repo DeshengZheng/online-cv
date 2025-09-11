@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Desheng Zheng
-  tagline: Associate Professor
+  tagline: Associate Researcher
   avatar: zhengdesheng.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -373,7 +373,130 @@ publications:
     authors: Zheng, Desheng*; Ran, Ziyong; Liu, Zhifeng; Li, Liang; Tian, Lulu
     conference: CMC-COMPUTERS MATERIALS & CONTINUA, 2020
 
+  - title: RCA-SI: A Rapid Consensus Algorithm for Swarm Intelligence in unstable network environments
+    link: "#"
+    authors: Zeng, Guo., Hu, Wei., Zhou, Yong., et al.
+    conference: Journal of Network and Computer Applications, 2025.
 
+  - title: Single-cell multiomics reveals a gene regulatory circuit driving leukemia cell differentiation
+    link: "#"
+    authors: Tian, Xu., Zhang, Lin., Xiang, Guo., et al.
+    conference: Oncogene, 2025.
+
+  - title: Delocalization State‐Stabilized Znδ+ Active Sites for Highly Selective and Durable CO2 Electroreduction
+    link: "#"
+    authors: Liu, Qiuwei., He, Bangling., Zheng, Desheng., et al.
+    conference: Small, 2024.
+
+  - title: A multistage hemiplegic lower-limb rehabilitation robot: Design and gait trajectory planning
+    link: "#"
+    authors: Wang, Xin., Wang, Hui., Zhang, Bin., et al.
+    conference: Sensors, 2024.
+
+  - title: MOF-based materials for electrochemical reduction of carbon dioxide
+    link: "#"
+    authors: Huang, Jingming., Zhang, Xiaodong., Huang, Jingyi., et al.
+    conference: Coordination Chemistry Reviews, 2023.
+
+  - title: An efficient bar code image recognition algorithm for sorting system
+    link: "#"
+    authors: Zheng, Desheng., Ran, Ziyong., Liu, Zhen., et al.
+    conference: Computers, Materials & Continua, 2020.
+
+  - title: Researching the Link Between the Geometric and Rènyi Discord for Special Canonical Initial States Based on Neural Network Method
+    link: "#"
+    authors: Li, Xiaoyu., Zhu, Qinsheng., Meng, Qingguo., et al.
+    conference: Computers, Materials & Continua, 2019.
+
+  - title: An assertion graph based abstraction algorithm in GSTE and Its application
+    link: "#"
+    authors: Zheng, Desheng., Li, Xiaoyu., Yang, Guangwu., et al.
+    conference: Integration, 2018.
+
+  - title: An efficient algorithm for computing fixed length attractors based on bounded model checking in synchronous Boolean networks with biochemical applications
+    link: "#"
+    authors: Li, Xiaoyu., Yang, Guangwu., Zheng, Desheng., et al.
+    conference: Genetics and Molecular Research, 2015.
+
+  - title: A class of efficient quantum incrementer gates for quantum circuit synthesis
+    link: "#"
+    authors: Li, Xiaoyu., Yang, Guangwu., Torres Jr, C. M., et al.
+    conference: International Journal of Modern Physics B, 2014.
+
+  - title: Terminal satisfiability in GSTE
+    link: "#"
+    authors: Xu, Ying., Yang, Guangwu., Chang, Zheng., et al.
+    conference: Journal of Applied Mathematics, 2014.
+
+  - title: An efficient algorithm for computing attractors of synchronous and asynchronous Boolean networks
+    link: "#"
+    authors: Zheng, Desheng., Yang, Guangwu., Li, Xiaoyu., et al.
+    conference: PloS one, 2013.
+
+  - title: An algorithm to find cycles of biochemical systems
+    link: "#"
+    authors: Zheng, Desheng., Yang, Guangwu., Li, Xiaoyu., et al.
+    conference: Proceedings of the 2013 International Conference on Information, Business and Education Technology (ICIBET 2013), 2013.
+
+  - title: Synthesis of ternary non-reversible logic circuits
+    link: "#"
+    authors: Li, Xiaoyu., Yang, Guangwu., Zheng, Desheng.
+    conference: IEEE Congress on Evolutionary Computation, 2010.
+
+  - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
+    link: "#"
+    authors: Ke, Wuping., Zheng, Desheng., Zhang, Chi., et al.
+    conference: International Conference on Artificial Intelligence and Security, 2022.
+
+  - title: A Static Malware Sample Generation Model Based on Automatic Perturbation Strategy
+    link: "#"
+    authors: Wu, Xinlong., Zheng, Desheng., Li, Zhengyu., Wen, Dong., Yin, Guangqiang., Zhou, Yong.
+    conference: Computer Applications and Software
+
+  - title: CBA Circle-based Black-box Attack Method
+    link: "#"
+    authors: Zheng, Desheng., Zheng, Shuntian., Li, Xiaoyu., Yin, Hao., Wang, Cong.
+    conference: Computer Engineering
+
+  - title: SBA Sphere-based Black-box Attack Method
+    link: "#"
+    authors: Zheng, Desheng., Tian, Ye., Ke, Wuping., Li, Xiaoyu., Yin, Hao.
+    conference: Journal of Computer Science and Exploration
+
+  - title: A Survey of Multivariate Time Series Clustering Algorithms
+    link: "#"
+    authors: Zheng, Desheng., Sun, Hanming., Wang, Liyuan., Duan, Yaoxin., Li, Xiaoyu.
+    conference: Journal of Computer Science and Exploration
+
+  - title: Research on Intelligent Fault Diagnosis Model for Aero-Engine Surge
+    link: "#"
+    authors: Zhang, Kexin., Zheng, Desheng., Wu, Xinlong., Chen, Jixin.
+    conference: Computer Simulation
+
+  - title: Adversarial Attack Transferability Enhancement Algorithm Based on Input Channel Splitting
+    link: "#"
+    authors: Zheng, Desheng., Chen, Jixin., Zhou, Jing., Ke, Wuping., Lu, Chao.
+    conference: Computer Engineering
+
+  - title: Surge Fault Detection in Aero-Engines Based on Differential Privacy
+    link: "#"
+    authors: Cen, Peng., Zheng, Desheng., Lu, Chao.
+    conference: Gas Turbine Experiment and Research
+
+  - title: Thoughts and Suggestions on Cultivating Cyberspace Security Talents
+    link: "#"
+    authors: Zheng, Desheng., Zhang, Kexin., Deng, Biying., Gong, Jie., Zhang, Xiaojun.
+    conference: Education and Teaching Forum
+
+  - title: A U-Net Based Defense Model Against Adversarial Examples
+    link: "#"
+    authors: Lai, Yanling., Shi, Junfeng., Chen, Jixin., Bai, Hanli., Tang, Xiaolan., Deng, Biying., Zheng, Desheng.
+    conference: Computer Engineering
+
+  - title: A DS-based PCA Fusion Scheme for Multi-source Information in Electronic Warfare
+    link: "#"
+    authors: Zheng, Desheng., Li, Xiaoyu., Cai, Jingye.
+    conference: Journal of University of Electronic Science and Technology of China
 
 projectsnew:
   title: Projects
