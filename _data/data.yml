@@ -274,6 +274,11 @@ publications:
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
     conference: IEEE Transactions on Information Forensics and Security, 2025.
 
+  - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
+    link: "#"
+    authors: Ke, Wuping., Zheng, Desheng., Zhang, Chi., et al.
+    conference: International Conference on Artificial Intelligence and Security, 2022. (Best paper)
+
   - title: Improving the transferability of adversarial examples through neighborhood attribution
     link: "#"
     authors: Ke, Wuping, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
@@ -284,10 +289,7 @@ publications:
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
     conference: Applied Intelligence, 2024.
 
-  - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
-    link: "#"
-    authors: Ke, Wuping., Zheng, Desheng., Zhang, Chi., et al.
-    conference: International Conference on Artificial Intelligence and Security, 2022. (Best paper)
+
 
   - title: An automatic segmentation framework of quasi-periodic time series through graph structure
     link: "#"
