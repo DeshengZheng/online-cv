@@ -269,15 +269,16 @@ publications:
     authors: Wang, Liyuan., Zhou, Yong., Ke, Wuping., Zheng, Ddsheng*., Min, F., & Li, H.
     conference: Applied Intelligence, 2025.
 
+  - title: Large Language Models Meet Contrastive Learning Zero-Shot Emotion Recognition Across Languages
+    link: "#"
+    authors: Heqing Zou, Fengmao Lv, Desheng Zheng, Eng Siong Chng, Deepu Rajan
+    conference: ICME, 2025.
+
   - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
     link: "#"
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
     conference: IEEE Transactions on Information Forensics and Security, 2025.
 
-  - title: Large Language Models Meet Contrastive Learning Zero-Shot Emotion Recognition Across Languages
-    link: "#"
-    authors: Heqing Zou, Fengmao Lv, Desheng Zheng, Eng Siong Chng, Deepu Rajan
-    conference: ICME, 2025.
 
   - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
     link: "#"
