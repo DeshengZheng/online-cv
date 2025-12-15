@@ -101,26 +101,26 @@ experiences:
   info:
   - role: Research Professor & Director
     time: 2022-03 - Present
-    company: Kash Institute of Electronics and Information Industry, Institute of Intelligent Manufacturing
+    company: Kash Institute of Electronics and Information Industry, Intelligent Manufacturing Institute
 
 
   - role: Associate Professor
     time: 2019-01 - Present
-    company: Southwest Petroleum University, School of Computer Science
+    company: Southwest Petroleum University, School of Computer Science and Software Engineering
 
   - role: Lecturers
     time: 2018-07 - 2018-12
-    company: Southwest Petroleum University, School of Computer Science
+    company: Southwest Petroleum University, School of Computer Science and Software Engineering
 
-  - role: Software Architect,  IT Storage Architecture & Design
+  - role: Software Architect
 
     time: 2014-07 - 2016-06
-    company: Huawei Technologies
+    company: Huawei Technologies,  IT Storage Architecture & Design
 
-  - role: Project Manager, DB Processing
+  - role: Project Manager
 
     time: 2008-07 - 2009-08
-    company: Apache Design Solutions, Inc.(Chengdu)
+    company: Apache Design Solutions, Inc.(Chengdu), DB Processing
 #    details: |
 #      Describe your role here lorem ipsum dolor sit amet, consectetuer
 #      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
