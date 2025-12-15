@@ -264,6 +264,11 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
+  - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
+    link: "#"
+    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
+    conference: IEEE Transactions on Information Forensics and Security, 2025.
+
   - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
     link: "#"
     authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
@@ -294,10 +299,7 @@ publications:
     authors: Heqing Zou, Fengmao Lv, Desheng Zheng, Eng Siong Chng, Deepu Rajan
     conference: ICME, 2025.
 
-  - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
-    link: "#"
-    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
-    conference: IEEE Transactions on Information Forensics and Security, 2025.
+
 
 
   - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
