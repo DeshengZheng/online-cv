@@ -278,12 +278,27 @@ publications:
   - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
     link: "#"
     authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
-    conference: Applied Soft Computing Journal, 2025.
+    conference: Applied Soft Computing Journal, 2025. accepted.
 
   - title: Transformer-based deep learning for predicting brain tumor recurrence using magnetic resonance imaging
     link: "#"
     authors: Zhou, Qiuyu., Tian, Xuwei., Feng, Meiling., Li, Lintao., Zheng, Desheng., & Li, Xiaoyu.
     conference: Medical Physics, 2025.
+
+  - title: Large Language Models Meet Contrastive Learning Zero-Shot Emotion Recognition Across Languages
+    link: "#"
+    authors: Heqing Zou, Fengmao Lv, Desheng Zheng, Eng Siong Chng, Deepu Rajan
+    conference: ICME, 2025.
+
+  - title: Efficiently maintaining the multilingual capacity of MCLIP in downstream cross-modal retrieval tasks
+    link: "#"
+    authors: Fengmao Lv, Jitong Lei, Guosheng Lin, Desheng Zheng, Jianyang Zhang, Tianrui Li
+    conference: NeurIPS, 2025, accepted.
+
+  - title: Regression-based multisource conditional domain adaptation for policy outcome prediction
+    link: "#"
+    authors: Qi Chang, Caijia Zhu, Liang Wu, Wei Lan, Desheng Zheng, Fengmao Lv
+    conference: Neural Networks, 2026.
 
   - title: RCA-SI A Rapid Consensus Algorithm for Swarm Intelligence in unstable network environments
     link: "#"
@@ -300,10 +315,7 @@ publications:
     authors: Wang, Liyuan., Zhou, Yong., Ke, Wuping., Zheng, Ddsheng*., Min, F., & Li, H.
     conference: Applied Intelligence, 2025.
 
-  - title: Large Language Models Meet Contrastive Learning Zero-Shot Emotion Recognition Across Languages
-    link: "#"
-    authors: Heqing Zou, Fengmao Lv, Desheng Zheng, Eng Siong Chng, Deepu Rajan
-    conference: ICME, 2025.
+
 
 
 
