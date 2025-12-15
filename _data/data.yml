@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Desheng Zheng
-  tagline: Research Professor & Director
+  tagline: Director & Research Professor
   avatar: zhengdesheng.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -64,7 +64,7 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    I currently serve as Research Professor & Director of the Intelligent Manufacturing Institute at the Kash Institute of Electronics and Information Industry, and Associate Professor at the School of Computer Science and Software Engineering, Southwest Petroleum University. My research interests are Medical Image Analysis, Multimodal Large Models and Time Series Analysis.
+    I currently serve as Director & Research Professor of the Intelligent Manufacturing Institute at the Kash Institute of Electronics and Information Industry, and Associate Professor at the School of Computer Science and Software Engineering, Southwest Petroleum University. My research interests are Medical Image Analysis, Multimodal Large Models and Time Series Analysis.
 
     Feel free to contact me if you are interested in my research area.
 #I have openings for self-motivated undergraduate students, master students.
@@ -99,7 +99,7 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Research Professor & Director
+  - role: Director & Research Professor
     time: 2022-03 - Present
     company: Kash Institute of Electronics and Information Industry, Intelligent Manufacturing Institute
 
