@@ -264,15 +264,16 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
+  - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
+    link: "#"
+    authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
+    conference: Applied Soft Computing Journal, 2025.
+
   - title: Transformer-based deep learning for predicting brain tumor recurrence using magnetic resonance imaging
     link: "#"
     authors: Zhou, Qiuyu., Tian, Xuwei., Feng, Meiling., Li, Lintao., Zheng, Desheng., & Li, Xiaoyu.
     conference: Medical Physics, 2025.
 
-  - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
-    link: "#"
-    authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
-    conference: Applied Soft Computing Journal, 2025.
   - title: RCA-SI A Rapid Consensus Algorithm for Swarm Intelligence in unstable network environments
     link: "#"
     authors: Zeng, Guangquan., Wan, Hu., Zhou, Yongchao., Zheng, Desheng., Li, Xiaoyu., & Shi, Chuang.
@@ -282,7 +283,6 @@ publications:
     link: "#"
     authors: Tian, Xin., Zhang, Liuqingqing., Xiang, Guiqiyang., Tang, Yijia., Zhu, Ping., Yu, Shuting., Jiang, Fangying., Wang, Shuai., Wang, Jinzeng., Dai, Yao., Zheng, Desheng., Wang, Jianbiao., Weng, Xiangqin., Wang, Shengyue., Tan, Yun., & Liu, Feng.
     conference: ONCOGENE, 2025.
-
 
   - title: Harmful data enhanced anomaly detection for quasi-periodic multivariate time series
     link: "#"
@@ -294,10 +294,28 @@ publications:
     authors: Heqing Zou, Fengmao Lv, Desheng Zheng, Eng Siong Chng, Deepu Rajan
     conference: ICME, 2025.
 
+  - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
+    link: "#"
+    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
+    conference: IEEE Transactions on Information Forensics and Security, 2025.
+
+
   - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
     link: "#"
     authors: Ke, Wuping., Zheng, Desheng., Zhang, Chi., et al.
     conference: International Conference on Artificial Intelligence and Security, 2022. (Best paper)
+
+  - title: Improving the transferability of adversarial examples through neighborhood attribution
+    link: "#"
+    authors: Ke, Wuping, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
+    conference: Knowledge-Based Systems, 2024.
+
+  - title: Channel-augmented joint transformation for transferable adversarial attacks
+    link: "#"
+    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
+    conference: Applied Intelligence, 2024.
+
+
 
   - title: An automatic segmentation framework of quasi-periodic time series through graph structure
     link: "#"
@@ -309,20 +327,7 @@ publications:
     authors: Li, Zhengyu; Zheng, Desheng*; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
     conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
 
-  - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
-    link: "#"
-    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
-    conference: IEEE Transactions on Information Forensics and Security, 2025.
 
-  - title: Improving the transferability of adversarial examples through neighborhood attribution
-    link: "#"
-    authors: Ke, Wuping, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
-    conference: Knowledge-Based Systems, 2024.
-
-  - title: Channel-augmented joint transformation for transferable adversarial attacks
-    link: "#"
-    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
-    conference: Applied Intelligence, 2024.
 
 
 
@@ -402,6 +407,124 @@ publications:
     link: "#"
     authors: Zheng, Desheng*; Ran, Ziyong; Liu, Zhifeng; Li, Liang; Tian, Lulu
     conference: CMC-COMPUTERS MATERIALS & CONTINUA, 2020
+
+
+  - title: Single-cell multiomics reveals a gene regulatory circuit driving leukemia cell differentiation
+    link: "#"
+    authors: Tian, Xu., Zhang, Lin., Xiang, Guo., et al.
+    conference: Oncogene, 2025.
+
+  - title: Delocalization State‐Stabilized Znδ+ Active Sites for Highly Selective and Durable CO2 Electroreduction
+    link: "#"
+    authors: Liu, Qiuwei., He, Bangling., Zheng, Desheng., et al.
+    conference: Small, 2024.
+
+  - title: A multistage hemiplegic lower-limb rehabilitation robot Design and gait trajectory planning
+    link: "#"
+    authors: Wang, Xin., Wang, Hui., Zhang, Bin., et al.
+    conference: Sensors, 2024.
+
+  - title: MOF-based materials for electrochemical reduction of carbon dioxide
+    link: "#"
+    authors: Huang, Jingming., Zhang, Xiaodong., Huang, Jingyi., et al.
+    conference: Coordination Chemistry Reviews, 2023.
+
+  - title: An efficient bar code image recognition algorithm for sorting system
+    link: "#"
+    authors: Zheng, Desheng., Ran, Ziyong., Liu, Zhen., et al.
+    conference: Computers, Materials & Continua, 2020.
+
+  - title: Researching the Link Between the Geometric and Rènyi Discord for Special Canonical Initial States Based on Neural Network Method
+    link: "#"
+    authors: Li, Xiaoyu., Zhu, Qinsheng., Meng, Qingguo., et al.
+    conference: Computers, Materials & Continua, 2019.
+
+  - title: An assertion graph based abstraction algorithm in GSTE and Its application
+    link: "#"
+    authors: Zheng, Desheng., Li, Xiaoyu., Yang, Guangwu., et al.
+    conference: Integration, 2018.
+
+  - title: An efficient algorithm for computing fixed length attractors based on bounded model checking in synchronous Boolean networks with biochemical applications
+    link: "#"
+    authors: Li, Xiaoyu., Yang, Guangwu., Zheng, Desheng., et al.
+    conference: Genetics and Molecular Research, 2015.
+
+  - title: A class of efficient quantum incrementer gates for quantum circuit synthesis
+    link: "#"
+    authors: Li, Xiaoyu., Yang, Guangwu., Torres Jr, C. M., et al.
+    conference: International Journal of Modern Physics B, 2014.
+
+  - title: Terminal satisfiability in GSTE
+    link: "#"
+    authors: Xu, Ying., Yang, Guangwu., Chang, Zheng., et al.
+    conference: Journal of Applied Mathematics, 2014.
+
+  - title: An efficient algorithm for computing attractors of synchronous and asynchronous Boolean networks
+    link: "#"
+    authors: Zheng, Desheng., Yang, Guangwu., Li, Xiaoyu., et al.
+    conference: PloS one, 2013.
+
+  - title: An algorithm to find cycles of biochemical systems
+    link: "#"
+    authors: Zheng, Desheng., Yang, Guangwu., Li, Xiaoyu., et al.
+    conference: Proceedings of the 2013 International Conference on Information, Business and Education Technology (ICIBET 2013), 2013.
+
+  - title: Synthesis of ternary non-reversible logic circuits
+    link: "#"
+    authors: Li, Xiaoyu., Yang, Guangwu., Zheng, Desheng.
+    conference: IEEE Congress on Evolutionary Computation, 2010.
+
+
+
+  - title: A Static Malware Sample Generation Model Based on Automatic Perturbation Strategy
+    link: "#"
+    authors: Wu, Xinlong., Zheng, Desheng., Li, Zhengyu., Wen, Dong., Yin, Guangqiang., Zhou, Yong.
+    conference: Computer Applications and Software
+
+  - title: CBA Circle-based Black-box Attack Method
+    link: "#"
+    authors: Zheng, Desheng., Zheng, Shuntian., Li, Xiaoyu., Yin, Hao., Wang, Cong.
+    conference: Computer Engineering
+
+  - title: SBA Sphere-based Black-box Attack Method
+    link: "#"
+    authors: Zheng, Desheng., Tian, Ye., Ke, Wuping., Li, Xiaoyu., Yin, Hao.
+    conference: Journal of Computer Science and Exploration
+
+  - title: A Survey of Multivariate Time Series Clustering Algorithms
+    link: "#"
+    authors: Zheng, Desheng., Sun, Hanming., Wang, Liyuan., Duan, Yaoxin., Li, Xiaoyu.
+    conference: Journal of Computer Science and Exploration
+
+  - title: Research on Intelligent Fault Diagnosis Model for Aero-Engine Surge
+    link: "#"
+    authors: Zhang, Kexin., Zheng, Desheng., Wu, Xinlong., Chen, Jixin.
+    conference: Computer Simulation
+
+  - title: Adversarial Attack Transferability Enhancement Algorithm Based on Input Channel Splitting
+    link: "#"
+    authors: Zheng, Desheng., Chen, Jixin., Zhou, Jing., Ke, Wuping., Lu, Chao.
+    conference: Computer Engineering
+
+  - title: Surge Fault Detection in Aero-Engines Based on Differential Privacy
+    link: "#"
+    authors: Cen, Peng., Zheng, Desheng., Lu, Chao.
+    conference: Gas Turbine Experiment and Research
+
+  - title: Thoughts and Suggestions on Cultivating Cyberspace Security Talents
+    link: "#"
+    authors: Zheng, Desheng., Zhang, Kexin., Deng, Biying., Gong, Jie., Zhang, Xiaojun.
+    conference: Education and Teaching Forum
+
+  - title: A U-Net Based Defense Model Against Adversarial Examples
+    link: "#"
+    authors: Lai, Yanling., Shi, Junfeng., Chen, Jixin., Bai, Hanli., Tang, Xiaolan., Deng, Biying., Zheng, Desheng.
+    conference: Computer Engineering
+
+  - title: A DS-based PCA Fusion Scheme for Multi-source Information in Electronic Warfare
+    link: "#"
+    authors: Zheng, Desheng., Li, Xiaoyu., Cai, Jingye.
+    conference: Journal of University of Electronic Science and Technology of China
 
 
 
