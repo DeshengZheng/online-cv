@@ -278,7 +278,7 @@ publications:
   - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
     link: "#"
     authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
-    conference: Applied Soft Computing Journal, 2025. accepted.
+    conference: Applied Soft Computing Journal, 2025. Accepted.
 
   - title: Transformer-based deep learning for predicting brain tumor recurrence using magnetic resonance imaging
     link: "#"
@@ -293,7 +293,7 @@ publications:
   - title: Efficiently maintaining the multilingual capacity of MCLIP in downstream cross-modal retrieval tasks
     link: "#"
     authors: Fengmao Lv, Jitong Lei, Guosheng Lin, Desheng Zheng, Jianyang Zhang, Tianrui Li
-    conference: NeurIPS, 2025, accepted.
+    conference: NeurIPS, 2025, Accepted.
 
   - title: Regression-based multisource conditional domain adaptation for policy outcome prediction
     link: "#"
