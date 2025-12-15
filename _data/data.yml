@@ -64,7 +64,7 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    I am currently an associate professor in the School of Computer and Software at Southwest Petroleum University. My research interests are Medical Image Analysis, Multimodal Large Models and Time series analysis.
+    I am currently an associate professor in the School of Computer and Software at Southwest Petroleum University. My research interests are Medical Image Analysis, Multimodal Large Models and Time Series Analysis.
 
     I have openings for self-motivated undergraduate students, master students. Feel free to contact me if you are interested in my research area.
 education:
@@ -264,15 +264,15 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
-    - title: Transformer-based deep learning for predicting brain tumor recurrence using magnetic resonance imaging
-      link: "#"
-      authors: Zhou, Qiuyu., Tian, Xuwei., Feng, Meiling., Li, Lintao., Zheng, Desheng., & Li, Xiaoyu.
-      conference: Medical Physics, 2025.
+  - title: Transformer-based deep learning for predicting brain tumor recurrence using magnetic resonance imaging
+    link: "#"
+    authors: Zhou, Qiuyu., Tian, Xuwei., Feng, Meiling., Li, Lintao., Zheng, Desheng., & Li, Xiaoyu.
+    conference: Medical Physics, 2025.
 
-    - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
-      link: "#"
-      authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
-      conference: Applied Soft Computing Journal, 2025.
+  - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
+    link: "#"
+    authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
+    conference: Applied Soft Computing Journal, 2025.
   - title: RCA-SI A Rapid Consensus Algorithm for Swarm Intelligence in unstable network environments
     link: "#"
     authors: Zeng, Guangquan., Wan, Hu., Zhou, Yongchao., Zheng, Desheng., Li, Xiaoyu., & Shi, Chuang.
