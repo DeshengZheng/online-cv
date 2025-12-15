@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Desheng Zheng
-  tagline: Associate Researcher
+  tagline: Associate Professor
   avatar: zhengdesheng.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -64,7 +64,7 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    I am currently an associate professor in the School of Computer and Software at Southwest Petroleum University. My research interests are deep learning/big model-driven cybersecurity countermeasures, software development based on front-end and back-end frameworks.
+    I am currently an associate professor in the School of Computer and Software at Southwest Petroleum University. My research interests are Medical Image Analysis, Multimodal Large Models and Time series analysis.
 
     I have openings for self-motivated undergraduate students, master students. Feel free to contact me if you are interested in my research area.
 education:
@@ -98,7 +98,7 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Associate Researcher
+  - role: Associate Professor
     time: 2019-01 - Present
     company: Southwest Petroleum University, School of Computer Science
 
@@ -264,6 +264,51 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
+    - title: Transformer-based deep learning for predicting brain tumor recurrence using magnetic resonance imaging
+      link: "#"
+      authors: Zhou, Qiuyu., Tian, Xuwei., Feng, Meiling., Li, Lintao., Zheng, Desheng., & Li, Xiaoyu.
+      conference: Medical Physics, 2025.
+
+    - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
+      link: "#"
+      authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
+      conference: Applied Soft Computing Journal, 2025.
+  - title: RCA-SI A Rapid Consensus Algorithm for Swarm Intelligence in unstable network environments
+    link: "#"
+    authors: Zeng, Guangquan., Wan, Hu., Zhou, Yongchao., Zheng, Desheng., Li, Xiaoyu., & Shi, Chuang.
+    conference: JOURNAL OF NETWORK AND COMPUTER APPLICATIONS, 2025.
+
+  - title: Single-cell multiomics reveals a gene regulatory circuit driving leukemia cell differentiation
+    link: "#"
+    authors: Tian, Xin., Zhang, Liuqingqing., Xiang, Guiqiyang., Tang, Yijia., Zhu, Ping., Yu, Shuting., Jiang, Fangying., Wang, Shuai., Wang, Jinzeng., Dai, Yao., Zheng, Desheng., Wang, Jianbiao., Weng, Xiangqin., Wang, Shengyue., Tan, Yun., & Liu, Feng.
+    conference: ONCOGENE, 2025.
+
+
+  - title: Harmful data enhanced anomaly detection for quasi-periodic multivariate time series
+    link: "#"
+    authors: Wang, Liyuan., Zhou, Yong., Ke, Wuping., Zheng, Ddsheng*., Min, F., & Li, H.
+    conference: Applied Intelligence, 2025.
+
+  - title: Large Language Models Meet Contrastive Learning Zero-Shot Emotion Recognition Across Languages
+    link: "#"
+    authors: Heqing Zou, Fengmao Lv, Desheng Zheng, Eng Siong Chng, Deepu Rajan
+    conference: ICME, 2025.
+
+  - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
+    link: "#"
+    authors: Ke, Wuping., Zheng, Desheng., Zhang, Chi., et al.
+    conference: International Conference on Artificial Intelligence and Security, 2022. (Best paper)
+
+  - title: An automatic segmentation framework of quasi-periodic time series through graph structure
+    link: "#"
+    authors: Tang, Xiaolan, Desheng Zheng*, Gebre S. Kebede, Zhengyu Li, Xiaoyu Li, Chao Lu, Lintao Li, Yong Zhou, and Shan Yang
+    conference: Applied Intelligence, 2023.
+
+  - title: TADS Temporal Autoencoder Dynamic Series Framework for Unsupervised Anomaly Detection
+    link: "#"
+    authors: Li, Zhengyu; Zheng, Desheng*; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
+    conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
+
   - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
     link: "#"
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
@@ -279,10 +324,7 @@ publications:
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
     conference: Applied Intelligence, 2024.
 
-  - title: An automatic segmentation framework of quasi-periodic time series through graph structure
-    link: "#"
-    authors: Tang, Xiaolan, Desheng Zheng*, Gebre S. Kebede, Zhengyu Li, Xiaoyu Li, Chao Lu, Lintao Li, Yong Zhou, and Shan Yang
-    conference: Applied Intelligence, 2023.
+
 
   - title: Automatic Selection Attacks Framework for Hard Label Black-Box Models
     link: "#"
@@ -329,10 +371,7 @@ publications:
     authors: Liu, Siying; Zheng, Desheng; Zhao, Lei; Zhao, Xiuyun; Chen, Xin*
     conference: LANGMUIR, 2023
 
-  - title: TADS Temporal Autoencoder Dynamic Series Framework for Unsupervised Anomaly Detection
-    link: "#"
-    authors: Li, Zhengyu; Zheng, Desheng*; Li, Lintao; He, Peilei; Liu, Ruibao; Qian, Xingyu; Yang, Shan
-    conference: 2023 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN, 2023
+
 
 #  - title: Adversarial Examples Generation Algorithm through DCGAN
 #    link: "#"
@@ -409,7 +448,7 @@ experiences1:
 
       - title: Journal Reviewer
         link: "#"
-        tagline:  Served as reviewer for IJCNN2025, ICME2025, ICASSP2025, CENet 2023 TPCM/WKSP 4 Chair, IEEE Transactions on Circuits and Systems for Video Technology, Knowledge-Based System, Expert Systems with Applications, etc as well as other internationally recognized conferences/journals. 
+        tagline:  Served as reviewer for IJCNN2025, ICME2025, ICASSP2025, CENet 2023 TPCM/WKSP 4 Chair, IEEE Transactions on Circuits and Systems for Video Technology, Knowledge-Based System, Expert Systems with Applications, etc as well as other internationally recognized conferences/journals.
 
 
 #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
