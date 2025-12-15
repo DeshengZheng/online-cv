@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Desheng Zheng
-  tagline: Associate Professor
+  tagline: Research Professor & Director
   avatar: zhengdesheng.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -64,9 +64,10 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    I am currently an associate professor in the School of Computer and Software at Southwest Petroleum University. My research interests are Medical Image Analysis, Multimodal Large Models and Time Series Analysis.
+    I currently serve as Research Professor & Director of the Intelligent Manufacturing Institute at the Kash Institute of Electronics and Information Industry, and Associate Professor at the School of Computer Science and Software Engineering, Southwest Petroleum University. My research interests are Medical Image Analysis, Multimodal Large Models and Time Series Analysis.
 
-    I have openings for self-motivated undergraduate students, master students. Feel free to contact me if you are interested in my research area.
+#    I have openings for self-motivated undergraduate students, master students.
+    Feel free to contact me if you are interested in my research area.
 education:
   title: Education
   info:
@@ -102,6 +103,11 @@ experiences:
     time: 2022-03 - Present
     company: Kash Institute of Electronics and Information Industry, Institute of Intelligent Manufacturing
 
+  - role: Director
+    time: 2022-03 - Present
+    company: Kash Institute of Electronics and Information Industry, Institute of Intelligent Manufacturing
+
+
   - role: Associate Professor
     time: 2019-01 - Present
     company: Southwest Petroleum University, School of Computer Science
@@ -110,12 +116,12 @@ experiences:
     time: 2018-07 - 2018-12
     company: Southwest Petroleum University, School of Computer Science
 
-  - role: Senior Engineer,  IT Storage Architecture & Design
+  - role: Software Architect,  IT Storage Architecture & Design
 
     time: 2014-07 - 2016-06
     company: Huawei Technologies
 
-  - role: Engineer, DB Processing
+  - role: Project Manager, DB Processing
 
     time: 2008-07 - 2009-08
     company: Apache Design Solutions, Inc.(Chengdu)
